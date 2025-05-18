@@ -4,7 +4,7 @@
 
 1. **Clone the repository:**
    ```sh
-   git clone <repo-url>
+   git clone git@github.com:netnaho/solar-challenge-week1.git
    cd solar-challenge-week1
    ```
 2. **Create and activate a virtual environment (optional but recommended):**
