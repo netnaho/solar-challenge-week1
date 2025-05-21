@@ -16,3 +16,12 @@
    ```sh
    pip install -r requirements.txt
    ```
+# Solar Potential Dashboard
+
+This Streamlit app lets you compare solar-irradiance metrics across Benin, Sierra Leone, and Togo.
+
+## Setup
+
+1. Create and activate a Python 3.9+ venv:
+   ```bash
+   python3 -m venv .venv && source .venv/bin/activate
